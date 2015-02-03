@@ -1,0 +1,14 @@
+---
+title: "Practice Rmd"
+author: "April McCormick"
+date: "January 27, 2015"
+output: html_document
+bibliography: PracticeExportedItems.bib
+---
+
+For my project, 
+
+@sylvester_influence_2014 asdfkl
+@oudekerk_maternal_2014 sdjfbk
+
+# References

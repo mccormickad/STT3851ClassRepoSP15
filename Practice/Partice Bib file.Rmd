@@ -1,0 +1,16 @@
+---
+title: "Practice Bibliography File"
+author: "April McCormick"
+date: "January 27, 2015"
+output: html_document
+bibliography: Practice Exported Items.bib
+---
+
+For this project, 
+
+@sylvester_influence_2014 was great because...
+and 
+
+@oudekerk_maternal_2014 helped me with...
+
+# References
