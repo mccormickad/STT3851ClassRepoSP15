@@ -190,7 +190,7 @@ IQR(nesarc.sub$TotalCigsSmoked, na.rm = TRUE)
 ```
 
 The `shape` of the distribution for the estimated cigarettes smoked per month is skewed to the right.  The `center` (median) of the distribution is `r median(nesarc.sub$TotalCigsSmoked, na.rm = TRUE)` and the `spread` (interquartile range) for the distribution is `r IQR(nesarc.sub$TotalCigsSmoked, na.rm = TRUE)`.
-
+ 
 
 ### Some Statistics (We have not discussed this yet)
 
